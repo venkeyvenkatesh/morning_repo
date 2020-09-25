@@ -6,7 +6,7 @@ namespace project_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World abc");
+            Console.WriteLine("Hello World git hub");
         }
        
     }
